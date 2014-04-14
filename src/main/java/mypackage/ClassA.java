@@ -6,6 +6,7 @@ package mypackage;
 public class ClassA {
     public static void main(String[] args){
         System.out.println("MOU.. SUMI");
+        System.out.println("MY Location is USA");
     }
 
 }
